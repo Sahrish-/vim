@@ -8,3 +8,5 @@ set t_Co=256
 colorscheme desert
 nnoremap ; :
 set showmatch
+let mapleader = ","
+nmap <leader>n :NERDTreeToggle<cr>
